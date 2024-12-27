@@ -4954,7 +4954,7 @@ textarea{
     border-radius: 50px;
 }
 .ca-location-icbox {
-    display: flex;
+    display: flex !important;
     align-items: center;
     background: #fff;
     padding: 24px;
